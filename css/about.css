@@ -1,0 +1,10 @@
+body {
+    background-color: gainsboro;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 25vh;
+}
